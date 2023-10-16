@@ -1,0 +1,32 @@
+.m-2 {
+    margin: 2.5rem !important;
+    border: none;
+}
+.Startup-background{
+    background-color: rgb(255, 253, 253);
+}
+.startup-content-card{
+    color: rgb(0, 0, 0);
+    font-family: initial;
+}
+.Startup-grey{
+    color:grey;
+}
+.Startups-hero-image{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.unsplash.com/photo-1516383740770-fbcc5ccbece0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: 80px;
+}
+.Startups-hero-text{
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    position:static;
+    color: white;
+    transform: translate(0%, 40%);
+  }
+  

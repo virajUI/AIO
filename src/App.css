@@ -1,0 +1,126 @@
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+/* App.css */
+.custom-navbar {
+  border-bottom: 1px solid #ccc; /* Grey border at the bottom */
+  padding-left: 20px; /* Space from the left for the logo */
+}
+.custom-story{
+  background-color: rgb(227, 252, 255);
+}
+.medium {
+  font-weight: medium;
+}
+.custom-fix-1{
+  margin-top: 50px;
+}
+.nav-margin-right{
+  margin-right: 20px;
+}
+.hundredpercentwidth{
+  width: 100%;
+}
+.navtitle {
+  font-size: 16px;
+}
+.img-fix{
+  height: 200px;
+  width:100%;
+}
+.img-fix-second{
+  height: 350px;
+  width:100%;
+}
+
+/* Media query for mobile view */
+@media screen and (max-width: 600px) {
+  .img-fix-second{
+    height: 250px;
+  }
+}
+
+/* App.css */
+/* Style the custom card borders and make them rectangular */
+.custom-card {
+  border: 1px solid rgb(245, 242, 255); /* Set the desired border color */
+  border-radius: 0; /* Set border radius to 0 for a rectangular shape */
+}
+.custom-card-2 {
+  width: auto;
+  height: 150px;
+}
+
+.custom-img-2 {
+  width: auto;
+  height: 150px;
+}
+
+.custom-fix-3{
+  height:300px;
+  width: 100%;
+}
+@media screen and (max-width: 600px) {
+  .custom-fix-3{
+    height: 150px;
+  }
+}
+.custom-fix-4{
+  margin-top: 60px;
+}
+/* Style the custom card body for better readability */
+.custom-card-body {
+  padding: 15px; /* Adjust padding as needed for spacing inside the card */
+}
+
+/* Style the custom card titles and text */
+.custom-card-title {
+  font-weight: bold; /* Set the desired font weight */
+}
+
+.custom-card-text {
+  margin-bottom: 10px; /* Adjust margin as needed for spacing between elements */
+}
+
+.custom-text-body-secondary {
+  color: rgb(80, 80, 80); /* Set the desired text color */
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+

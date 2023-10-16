@@ -1,0 +1,139 @@
+
+  .link {
+    color: black;
+    text-decoration: none;
+  }
+  .Storiesimg-fluid {
+    width: 155px;
+    height: 90px;
+    margin-bottom: 37px;
+  }
+  .Storiesimg-fluid2{
+    width: 100% ;
+    height: 280px ;
+  }
+ .storiescard-body2{
+  width: 100%;
+ }
+  .Storiescard-title {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    display: flex;
+  }
+  .card-text {
+    color: rgb(141, 139, 139);
+    display: flex;
+  }
+  .Stories-img{
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .Stories-hero-image{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.unsplash.com/photo-1516724562728-afc824a36e84?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: 0px;
+  }
+  .Stories-background{
+    padding: 0px !important;
+    font-family: 'Playfair Display', serif;
+  }
+  .Stories-hero-text{
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    position:static;
+    color: white;
+    transform: translate(0%, 40%);
+    font-family: 'Playfair Display', serif;
+  }
+
+  .Storiesmarginleft {
+    margin-left: 20px
+  }
+
+  @media (max-width: 800px) {
+    h5 {
+      /* Add your styles here */
+      font-size: 14px;
+    }
+    h6 {
+      font-size:  14px;
+    }
+  }
+  @media (max-width: 700px) {
+    .Storiescard {
+      /* Add your styles here */
+      margin-left: 10px;     
+    }
+    .left-margintitle{
+      margin-left: 8px;
+    }
+    .Storiescard-title{
+      font-size: 16px;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+  h1, .h1 {
+    font-size: 2.5rem;
+    height: 350px;
+    font-family: 'Playfair Display', serif;
+  }
+}
+
+.card-image{
+  margin-left: 20px;
+}
+
+.row1-background-color{
+background-color: #a7dfe1;
+}
+.cardA-background-color{
+  background-color: rgb(235, 235, 235);
+}
+.row2-background-color{
+  background-color: #5abcc3;
+}
+.card2-background-color{
+  background-color: aqua;
+}
+.Stories-size-img{
+  max-width: 100%;
+  height: 270px !important;
+  width: 700px;
+  margin-left: 25px;
+}
+
+.nocard-img{
+  height: 150px;
+  width: 250px;
+  margin: 5px;
+}
+
+.nocard{
+  width :100%;
+  height: 180px;
+}
+.custom-topmargin{
+  margin-top: 40px;
+  background-color: #ededed;
+}
+.custom-topmargin2{
+  margin-top:20px
+}
+.no-paddings{
+  margin-top: 0%;
+  background-color: #ededed;
+}
+
+.custom-color2 {
+  background-color: rgb(233, 234, 255);
+}
+
+.custom-color1{
+  background-color: rgb(205, 223, 255);
+}

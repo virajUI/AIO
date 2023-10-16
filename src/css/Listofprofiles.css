@@ -1,0 +1,25 @@
+.list-profiles-img{
+    width: 240;
+    height: 220px;
+    margin-left: 20px;
+}
+
+.list-profiles-h5{
+    margin-left: 140px;
+    margin-top: 5px;
+}
+
+.list-profiles-h6{
+    margin-left: 160px;
+}
+
+@media only screen and (max-width: 600px) {
+    .list-profiles-img {
+      
+        display:block ;
+        margin : 0 auto;
+    }
+    .list-profiles-body-title{
+        margin: 0% !important;
+    }
+}

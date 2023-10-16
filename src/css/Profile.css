@@ -1,0 +1,39 @@
+.mdb-accordion-item {
+    border-radius: 1rem;
+    box-shadow: 0 0 5px #d3d3d3;
+    margin-bottom: 0.5rem;
+}
+.mdb-card {
+    border-radius: 1rem;
+    box-shadow: 0 0 5px #d3d3d3;
+  }
+  .mdb-col {
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+  }
+  .mdb-card-image {
+    width: 80px;
+  }
+  .profilewhite {
+    background-color: "white";
+  }
+
+.PRmargin{
+  margin-left: 40px;
+}
+
+.PRcreate{
+  height: 40px;
+}
+
+.PRaddbusiness{
+  margin-top: 5px;
+  height: 40px;
+}
+.Profile-email{
+  margin-left: -25px;
+}
+
+.Profile-phone{
+  margin-left: -15px;
+}

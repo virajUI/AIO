@@ -1,0 +1,71 @@
+/* .div {
+    margin-top: 5px;
+  } */
+
+  .Meetingcard {
+    box-shadow: 0 0 5px #d3d3d3;
+  }
+  .span1 {
+    background-color: #1846c6;
+    color: #fff;
+    padding: 5px;
+    margin-right: 5px;
+  }
+  .span2 {
+    background-color: #ff9933;
+    color: #fff;
+    padding: 5px;
+  }
+  .span3 {
+    background-color: #ff0000;
+    color: #fff;
+    padding: 5px;
+    margin-right: 0px;
+  }
+  .span4 {
+    border: 1px solid #ff0000;
+    padding: 5px;
+  }
+  .card-title {
+    margin-top: 20px;
+    margin-left: 0px;
+  }
+  .card-text {
+    color: grey;
+  }
+  .img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+
+  .Meh5{
+    margin-bottom: 20px;
+  }
+  @media (max-width: 600px) {
+    h2 {
+      font-size: 16px;
+    }
+  }
+  @media (max-width: 700px) {
+    .span1, .span2, .span3, .span4 {
+      /* Add your styles here */
+      font-size: 14px;
+      display: block;
+    }
+  }
+  .no-paddingme {
+    
+  }
+  @media (max-width: 767px) {
+    .no-paddingme {
+      margin-bottom: 10px;
+      
+    }
+  }
+  .home-titles{
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  

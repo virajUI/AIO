@@ -1,0 +1,51 @@
+/* 
+    .animated-button-1 {
+      animation: color-change-1 2s infinite;
+    }
+
+    @keyframes color-change-1 {
+      0% { background-color: rgb(255, 255, 255); }
+      50% { background-color: rgb(233, 233, 233); }
+      100% { background-color: rgb(209, 209, 209); }
+    }
+
+    .animated-button-2 {
+      animation: color-change-2 2s infinite;
+    }
+
+    @keyframes color-change-2 {
+      0% { background-color: green; }
+      50% { background-color: yellow; }
+      100% { background-color: green; }
+    }
+
+    .animated-button-3 {
+      animation: color-change-3 2s infinite;
+    }
+
+    @keyframes color-change-3 {
+      0% { background-color: orange; }
+      50% { background-color: purple; }
+      100% { background-color: orange; }
+    }
+
+    .animated-button-4 {
+      animation: color-change-4 2s infinite;
+    }
+
+    @keyframes color-change-4 {
+      0% { background-color: pink; }
+      50% { background-color: brown; }
+      100% { background-color: pink; }
+    }
+
+    .animated-button-5 {
+      animation: color-change-5 2s infinite;
+    }
+
+    @keyframes color-change-5 {
+      0% { background-color: black; }
+      50% { background-color: white; }
+      100% { background-color: black; }
+    }
+     */

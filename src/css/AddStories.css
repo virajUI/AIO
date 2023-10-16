@@ -1,0 +1,17 @@
+.col-md-8 {
+    margin-top: 40px;
+  }
+  .p {
+    color: grey;
+  }
+  .div {
+    display: grid;
+  }
+  .react-quill {
+    height: 40vh;
+    width: 53.2vw;
+    min-height: 40vh;
+  }
+  .button {
+    margin-top: 60px;
+  }

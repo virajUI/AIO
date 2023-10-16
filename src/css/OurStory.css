@@ -1,0 +1,87 @@
+.h1 {
+  color: grey;
+  margin-top: 30px;
+}
+.link {
+  color: black;
+  text-decoration: none;
+}
+.btn-danger {
+  background-color: #ff9933;
+  border-radius: 5px;
+  border: 1px solid orange;
+ 
+}
+.OurStorycard {
+  margin-bottom: 10px;
+  box-shadow: 0 0 10px #1846c6;
+}
+.img-single {
+  width: 330px;
+  height: 250px;
+} 
+.ourstory-row {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+.col-sm-6.offset-lg-3 {
+  display: flex;
+  flex-direction: column;
+}
+.card.mt-4 {
+  border-radius: 0;
+  display: flex;
+}
+.row.no-gutters {
+  display: flex;
+}
+.col-md-6.order-md-2 {
+  order: 2;
+}
+.col-md-6.order-md-1 {
+  order: 1;
+}
+.card-img.img-responsive.img-thumbnail {
+  border-radius: 4; 
+}
+.img-responsive.img-thumbnail {
+  width: 250px;
+  height: 150px;
+}
+
+.OurStorycard-title {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.OurStoryedit {
+  margin-right: 10px;
+  color :aliceblue;
+  background-color: #1846c6;
+  float: right;
+}
+
+.OurStorydelete{
+  margin-right: 10px;
+  background-color: red;
+  color: aliceblue;
+  float: right;
+}
+
+.minmax{
+  width: 200px;
+  height: 150px;
+  margin-top: 9px;
+  margin-right: 9px;
+}
+.ostop{
+  margin-top: 10px;
+  float : right;
+}
+@media (max-width: 576px) {
+  .OurStorycard {
+    /* Add your styles here */
+    margin-left: 20px;
+  }
+  
+}
